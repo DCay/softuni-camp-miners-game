@@ -1,0 +1,1 @@
+# softuni-camp-miners-game
